@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sage-5
-- 👀 I’m interested in the cybersecurity world and how it is evolving; AI
+- 👋 Hi, I’m Roy
+- 👀 I’m interested in the cybersecurity world and how it is evolving: AI
 - 🌱 I’m currently taking OPS 102 
 - 💞️ I’m looking to learn as much on cyber security as possible
 - 📫 How to reach me zela.g.5@gmail.com
